@@ -18,6 +18,8 @@ int main()
   cout<<"What is your last name?"<<endl;
   cin>>last;
 
+  cout<<"Welcome, "<<first[0]<<", here is your fortune ..."<<endl;
+
   //tell fortune
 
   return 0;
